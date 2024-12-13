@@ -1,0 +1,36 @@
+
+button{
+    background-color: black;
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 4px;
+    border: 2px solid green;
+    height: 50px;
+    width: 50px;
+    margin-left: 2px;
+    margin: 6px;
+}
+button:hover{
+    background-color: red;
+}
+input{
+    height: 50px;
+    width: 246px;
+    border: 2px solid green;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+ 
+}
+.total{
+    border: 7px solid rebeccapurple;
+    width: 290px;
+    height: 360px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 450px;
+    margin-top: 100px;
+    background-color: goldenrod;
+    border-radius: 10px;
+}
